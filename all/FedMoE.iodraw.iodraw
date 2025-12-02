@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0j7i5t7y7eYgZKC1Qtiz-1" value="Stage A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="585" y="366" width="60" height="30" as="geometry" />
+        <mxCell id="0j7i5t7y7eYgZKC1Qtiz-1" value="&lt;b&gt;Stage A&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="34" y="34" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
