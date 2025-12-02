@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0j7i5t7y7eYgZKC1Qtiz-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="19" y="343" width="1162" height="264" as="geometry" />
+        </mxCell>
         <mxCell id="0j7i5t7y7eYgZKC1Qtiz-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="19" y="24" width="1162" height="264" as="geometry" />
         </mxCell>
         <mxCell id="0j7i5t7y7eYgZKC1Qtiz-1" value="&lt;b&gt;Stage A&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="34" y="34" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0j7i5t7y7eYgZKC1Qtiz-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22" y="371" width="1151" height="318" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
